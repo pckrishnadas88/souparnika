@@ -1,0 +1,31 @@
+.sou-banner-txt {
+    font-family: 'Courgette';
+}
+.soup-gallery-header {
+    background-image: url("../images/gallery/gallery-header.jpg");
+    background-position-y: center;
+}
+.soup-about-header {
+    background-image: url("../images/about/about-banner.jpg");
+    background-position-y: center;
+}
+.soup-header-about-us {
+    background-image: url("../images/about/about-banner.jpg");
+    background-position-y: center;
+    /* filter: grayscale(100%);
+    -webkit-filter: grayscale(100%); */
+}
+.soup-header-contact-us {
+    background-image: url("../images/contact/contact-banner.png");
+    background-position-y: center;
+}
+.soup-header-gallery {
+    background-image: url("../images/gallery/gallery-banner.png");
+    background-position-y: center;
+}
+.office-info-text {
+    height: 180px;
+}
+.sou-whatsapp {
+    width: 70%;
+}
